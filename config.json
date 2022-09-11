@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6281241100804@s.whatsapp.net","6281241100804@s.whatsapp.net"],
+    "ownerName": "𝐍𝐞𝐥𝐬𝐨𝐧 𝗚𝗮𝗻𝘁𝗲𝗻𝗴 🗿",
+    "instagram" : "https://instagram.com/nelson_randanan",
+    "botName": "𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃",
+    "footer": "api.zeeoneofc.xyz",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": false,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
